@@ -1,4 +1,4 @@
-module github.com/0x16F/cloud/common
+module github.com/0x16F/cloud-common
 
 go 1.22.0
 
